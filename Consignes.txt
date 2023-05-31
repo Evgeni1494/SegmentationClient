@@ -1,0 +1,20 @@
+- Introduction 
+- Nettoyage
+- Analyse exploratoire
+- Modélisation
+- Présentation des clusters
+- Recommendations marketing
+- Conclusion
+- Difficultés rencontrées
+- Pistes d'amélioration
+
+
+- Faire une analyse exploratoire des comportements des clients
+
+- Faire un clustering sur la première année
+
+- Trouver une stratégie pour mettre à jour le clustering au fure et à mesure des nouvelles transactions
+
+- Propose un contrat de maintenance à date fixe
+
+- Faire une analyse des cluster et proposer des actions marketing
