@@ -11,6 +11,8 @@
 
 - Faire une analyse exploratoire des comportements des clients
 
+- SCORE ARI
+
 - Faire un clustering sur la première année
 
 - Trouver une stratégie pour mettre à jour le clustering au fure et à mesure des nouvelles transactions
